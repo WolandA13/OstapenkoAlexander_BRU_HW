@@ -21,9 +21,7 @@ div:hover {
 }
 
 .bordered {
-    border-width: 2px;
-    border-color: red;
-    border-style: solid;
+    border: 2px solid red;
     color: darkblue;
 }
 
